@@ -12,7 +12,7 @@
 <body>
 
 
-
+    <div id="overlays"></div>
     <div id="app"></div>
 
     <!-- React JS -->
