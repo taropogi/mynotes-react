@@ -13,4 +13,5 @@ require("./bootstrap");
  */
 
 // require("./components/App");
-require("./components/Apps/FoodApp/FoodApp");
+//require("./components/Apps/FoodApp/FoodApp");
+require("./components/Apps/ClassBased/index");
