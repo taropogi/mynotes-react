@@ -6,3 +6,4 @@ This is a simple note taking website.
 
 -   Laravel
 -   ReactJS
+-   Mysql
