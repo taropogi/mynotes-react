@@ -4,7 +4,11 @@
  * building robust, powerful web applications using React + Laravel.
  */
 
-//require("./bootstrap");
+/* 
+ This includes the Bootstrap javascript. Without it some bootstrap features like modal pop up will not work 
+ But it also includes other packages like axios. 
+*/
+require("./bootstrap");
 
 /**
  * Next, we will create a fresh React component instance and attach it to
@@ -13,7 +17,6 @@
  */
 
 //require("./apps/MyNotes/Index");
-
 //require("./apps/FoodApp/FoodApp");
-
-require("./apps/Example/Index");
+//require("./apps/Example/Index");
+require("./apps/ExpenseTracker/Index");

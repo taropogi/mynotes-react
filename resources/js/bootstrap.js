@@ -1,8 +1,9 @@
 window._ = require("lodash");
 
-try {
-    require("bootstrap");
-} catch (e) {}
+// for now I don't need to Bootstrap javascript, but I need the axios below
+// try {
+//     require("bootstrap");
+// } catch (e) {}
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
